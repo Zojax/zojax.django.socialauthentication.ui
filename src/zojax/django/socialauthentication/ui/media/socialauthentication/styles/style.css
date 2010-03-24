@@ -129,6 +129,9 @@ form.openid li.blogger.big {
   background-image: url(../images/32px/blogger.png);
 }
 
+form.openid li.claimid.big {
+  background-image: url(../images/32px/claimid.png);
+}
 form.openid li.claimid.small {
   background-image: url(../images/16px/claimid.png);
 }
@@ -161,10 +164,17 @@ form.openid li.linkedin.big {
   background-image: url(../images/32px/linkedin.png);
 }
 
+form.openid li.livejournal.big {
+  background-image: url(../images/32px/livejournal.png);
+}
+
 form.openid li.livejournal.small {
   background-image: url(../images/16px/livejournal.png);
 }
 
+form.openid li.myopenid.big {
+  background-image: url(../images/32px/myopenid.png);
+}
 form.openid li.myopenid.small {
   background-image: url(../images/16px/myopenid.png);
 }
